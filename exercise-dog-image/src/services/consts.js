@@ -15,3 +15,4 @@ export const H4 = 'h4';
 export const BTN_IMG = 'btnimg';
 export const IMG_FAVORITOS = 'imgfavoritos';
 export const BTN_EXCLUIR = 'btnexcluir';
+export const LINK = 'link';

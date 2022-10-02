@@ -10,6 +10,7 @@ import {
   IMG_HEADER,
   SEARCH,
   FAVORITE,
+  LINK,
 } from '../services/consts';
 import '../styled/Header.css';
 
@@ -52,7 +53,7 @@ function Header() {
 
   return (
     <>
-      <Link id="link" to={ FAVORITE_ROUTE }>
+      <Link id={ LINK } to={ FAVORITE_ROUTE }>
         <section className={ CONTEINER_BTN }>
           <button
             id={ PAGE_FAVORITE }
