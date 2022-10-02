@@ -55,7 +55,7 @@ function Favoritos() {
       </section>
 
       <section className={ CONTEINER_FAVORITOS }>
-        { VALIDATION ? <section className={ H4 }><h4>Você não tem nenhum imagem adicionada  nos favoritos </h4></section>
+        { VALIDATION ? <section className={ H4 }><h4>Você não tem nenhuma imagem adicionada  nos favoritos </h4></section>
           : favorites.map((element) => (
             <section key={ element.message } className={ BTN_IMG }>
               <section>
