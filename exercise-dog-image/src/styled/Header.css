@@ -1,0 +1,58 @@
+body {
+    background-color: rgb(240, 230, 230);
+    font-style: italic;
+}
+
+h5 {
+    font-size: 50px;
+    margin-top: 200px;
+}
+
+.conteinerbtn {
+    display: flex;
+    justify-content: center;
+
+}
+#PaginaFavoritos {
+    width: 410px;
+    border-radius: 10px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: Garamond;
+    background-color: rgb(26, 216, 223);
+}
+#link {
+    text-decoration: none
+}
+#imgheader {
+    border-radius: 40px;
+    width: 500px;
+    height: 500px;
+    box-shadow: 10px 5px 5px black;
+}
+#busca {
+    position: absolute;
+    bottom: 0;
+    margin-left: 425px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: Garamond;
+    background-color: rgb(10, 197, 50);
+}
+#favoritar {
+    position: absolute;
+    bottom: 0;
+    margin-left: 655px;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    font-family: Garamond;
+    background-color: rgb(11, 77, 199);
+}

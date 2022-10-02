@@ -1,0 +1,17 @@
+export const PUPPIES = 'puppies';
+export const FAVORITE_ROUTE = '/componets/Favoritos';
+export const HOME_ROUTE = '/';
+export const PUPPY_PHOTO = 'foto de cachorro';
+export const CONTEINER_BTN = 'conteinerbtn';
+export const PAGE_FAVORITE = 'PaginaFavoritos';
+export const IMG_HEADER = 'imgheader';
+export const SEARCH = 'busca';
+export const FAVORITE = 'favoritar';
+export const HOME = 'home';
+export const HOME_1 = 'home1';
+export const IMG_HOME = 'imgHome';
+export const CONTEINER_FAVORITOS = 'conteinerFavoritos';
+export const H4 = 'h4';
+export const BTN_IMG = 'btnimg';
+export const IMG_FAVORITOS = 'imgfavoritos';
+export const BTN_EXCLUIR = 'btnexcluir';
