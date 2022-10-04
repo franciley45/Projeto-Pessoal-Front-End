@@ -16,3 +16,5 @@ export const BTN_IMG = 'btnimg';
 export const IMG_FAVORITOS = 'imgfavoritos';
 export const BTN_EXCLUIR = 'btnexcluir';
 export const LINK = 'link';
+export const CONTEINER_IMG = 'conteinerimg';
+export const CONTEINER_BUSCA_FAVORITOS = 'conteinerbuscaFavoritar';

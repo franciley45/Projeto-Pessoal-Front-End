@@ -6,6 +6,8 @@ import {
   PUPPY_PHOTO,
   FAVORITE_ROUTE,
   CONTEINER_BTN,
+  CONTEINER_BUSCA_FAVORITOS,
+  CONTEINER_IMG,
   PAGE_FAVORITE,
   IMG_HEADER,
   SEARCH,
@@ -65,14 +67,14 @@ function Header() {
 
       </Link>
 
-      <section className={ CONTEINER_BTN }>
+      <section className={ CONTEINER_IMG }>
         {Loading ? <h5>Loading...</h5> : <img
           id={ IMG_HEADER }
           src={ dog.message }
           alt={ PUPPY_PHOTO }
         />}
       </section>
-      <section>
+      <section className={ CONTEINER_BUSCA_FAVORITOS }>
         <button
           id={ SEARCH }
           type="button"

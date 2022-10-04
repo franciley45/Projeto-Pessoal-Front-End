@@ -13,6 +13,15 @@ h5 {
     justify-content: center;
 
 }
+.conteinerimg {
+    display: flex;
+    justify-content: center;
+    height: 490px;
+}
+.conteinerbuscaFavoritar {
+    display: flex;
+    justify-content: center;
+}
 #PaginaFavoritos {
     width: 410px;
     border-radius: 10px;
@@ -29,29 +38,23 @@ h5 {
 #imgheader {
     border-radius: 40px;
     width: 500px;
-    height: 500px;
+    height: 480px;
     box-shadow: 10px 5px 5px black;
 }
 #busca {
-    position: absolute;
-    bottom: 0;
-    margin-left: 425px;
     width: 200px;
     height: 50px;
     border-radius: 10px;
-    margin-bottom: 10px;
+    margin: 10px;
     font-size: 30px;
     font-family: Garamond;
     background-color: rgb(10, 197, 50);
 }
 #favoritar {
-    position: absolute;
-    bottom: 0;
-    margin-left: 655px;
     width: 200px;
     height: 50px;
     border-radius: 10px;
-    margin-bottom: 10px;
+    margin: 10px;
     font-size: 30px;
     font-family: Garamond;
     background-color: rgb(11, 77, 199);
