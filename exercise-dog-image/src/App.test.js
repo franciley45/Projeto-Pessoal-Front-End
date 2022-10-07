@@ -7,7 +7,7 @@ import { FAVORITE_ROUTE } from './services/consts';
 import logo from './styled/1509547336090.jpg';
 
 describe('teste da tela Header', () => {
-  test('teste da rota "/" se renderizando corretamente', () => {
+  test('teste da rota "/" se renderizando corretamente!', () => {
     renderWithRouter(<App />);
     const btnPaginaFavoritos = screen.getByText('Página de Favoritos');
     const msgLoading = screen.getByRole('heading');
