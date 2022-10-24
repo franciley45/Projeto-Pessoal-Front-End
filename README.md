@@ -8,12 +8,12 @@ foi usando: React, Hooks, React Router, Test Jest, CSS, Componentização, Requi
 ---
 
 <details>
-  <summary><strong>‼️ Clone o repositório</strong></summary><br />
+  <summary><strong>👨‍💻 Clone o repositório</strong></summary><br />
 
 1. Clone o repositório
-  * `git clone git@github.com:tryber/sd-023-b-mysql-all-for-one.git`.
+  * `git clone git@github.com:franciley45/Projeto-pessoal. git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd Projeto-pessoal`
-  * `cd exercise-dog-image`
+    * `cd exercise-dog-image`
 2. Instale as dependências 
   * `npm install` 
