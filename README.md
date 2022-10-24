@@ -2,7 +2,7 @@
 # Boas vindas ao repositório do meu Projeto-Pessoal
 
 Olá esse projeto é simples, organizado é sem bugs.
-Foi pensado para demostrar um pouco dos conhecimentos adquiridas no curso da trybe para servir como portfólio,
+Foi pensado para demostrar um pouco dos conhecimentos adquiridos no curso da trybe para servir como portfólio,
 foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentização, Requisição de API, Lógica de Programação é Armazenamento na localStorage.
 
 ---
