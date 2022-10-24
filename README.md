@@ -1,5 +1,5 @@
 
-# Boas vindas ao repositório do meu Projeto-pessoal
+# Boas vindas ao repositório do meu Projeto-Pessoal
 
 Olá esse projeto é simples, organizado é sem bugs.
 Foi pensado para demostrar um pouco dos conhecimentos adquiridas no curso da trybe para servir como portfólio,
