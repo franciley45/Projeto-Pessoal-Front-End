@@ -5,8 +5,7 @@ Olá esse projeto é simples, organizado é sem bugs.
 Foi pensado para demostrar um pouco dos conhecimentos adquiridos no curso da trybe para servir como portfólio,
 foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentização, Requisição de API, Lógica de Programação é Armazenamento na localStorage.
 <details>
-<summary><strong>👨‍💻 Deploy Railway link de acesso</strong></summary><br />
-* https://projeto-pessoal-production.up.railway.app
+
 ---
   
   <summary><strong>👨‍💻 Clone o repositório</strong></summary><br />
@@ -18,3 +17,6 @@ foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentiza
     * `cd exercise-dog-image`
 2. Instale as dependências 
   * `npm install` 
+  <br />
+  <summary><strong>👨‍💻 Deploy Railway link de acesso</strong></summary><br />
+* https://projeto-pessoal-production.up.railway.app
