@@ -9,7 +9,7 @@ foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentiza
   <details>
 <summary><strong>👨‍💻 Deploy Railway link de acesso</strong></summary><br />
 * https://projeto-pessoal-production.up.railway.app
----
+  <br />
 <details>
   <summary><strong>👨‍💻 Clone o repositório</strong></summary><br />
 
