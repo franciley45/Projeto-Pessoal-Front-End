@@ -18,4 +18,4 @@ foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentiza
 2. Instale as dependências 
   * `npm install` 
 <summary><strong>👨‍💻 Deploy Railway link de acesso</strong></summary><br />
-* `https://projeto-pessoal-production.up.railway.app`
+* https://projeto-pessoal-production.up.railway.app
