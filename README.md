@@ -18,5 +18,5 @@ foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentiza
 2. Instale as dependências 
   * `npm install` 
   <br />
-  <summary><strong>👨‍💻 Deploy Railway link de acesso</strong></summary><br />
+  <summary>👨‍💻 Deploy Railway link de acesso</summary><br />
 * https://projeto-pessoal-production.up.railway.app
