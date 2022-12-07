@@ -4,14 +4,11 @@
 Olá esse projeto é simples, organizado é sem bugs.
 Foi pensado para demostrar um pouco dos conhecimentos adquiridos no curso da trybe para servir como portfólio,
 foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentização, Requisição de API, Lógica de Programação é Armazenamento na localStorage.
-
----
-  <details>
+<details>
 <summary><strong>👨‍💻 Deploy Railway link de acesso</strong></summary><br />
 * https://projeto-pessoal-production.up.railway.app
- <br />
-
-# Termos e acordos
+---
+  
   <summary><strong>👨‍💻 Clone o repositório</strong></summary><br />
 
 1. Clone o repositório
