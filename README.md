@@ -1,8 +1,8 @@
 
 # Boas vindas ao repositório do meu Projeto-Pessoal
 
-Olá esse projeto é simples, organizado é sem bugs.
-Foi pensado para demostrar um pouco dos conhecimentos adquiridos no curso da trybe para servir como portfólio,
+Olá esse projeto
+Foi pensado para demostrar um pouco dos conhecimentos adquiridos no curso da trybe no modulo de Front-End,
 foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentização, Requisição de API, Lógica de Programação é Armazenamento na localStorage.
 <details>
 
@@ -18,5 +18,4 @@ foi usando: JavaScript, React, Hooks, React Router, Test Jest, CSS, Componentiza
 2. Instale as dependências 
   * `npm install` 
   <br />
-  <summary>👨‍💻 Deploy Railway link de acesso</summary><br />
-* https://projeto-pessoal-production.up.railway.app
+ 
